@@ -1,0 +1,33 @@
+<ul class="nav nav-tabs">
+            <li class="nav-item">
+              <h4><a class="nav-link active" aria-current="page" href="#">পঠিত</a></h4>
+              <ul class="nav nav-tabs">
+                <li class="nav-item">
+                  <h2 class="ms-4">১</h2>
+                  <h4 class="nav-link p-3 fs-4" aria-current="page"><a href="#" class="text-decoration-none">মেসিকে চোটে ফেললে ওতামেন্দিকে ‘খুন’ করবেন আগুয়েরো</a></h4>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <ul class="nav nav-tabs">
+                <li class="nav-item">
+                  <h2 class="ms-4">২</h2>
+                  <h4 class="nav-link p-3 fs-4" aria-current="page"><a href="#" class="text-decoration-none">সিলেটে প্রবাসী বাবা, ছেলে ও মেয়ের মৃত্যু অক্সিজেন–স্বল্পতায়: পুলিশ সুপার</a></h4>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <ul class="nav nav-tabs">
+                <li class="nav-item">
+                  <h2 class="ms-4">৩</h2>
+                  <h4 class="nav-link p-3 fs-4" aria-current="page"><a href="#" class="text-decoration-none">কারওয়ান বাজার এলাকায় কারা, কীভাবে ছিনতাই করে</a></h4>
+                </li>
+              </ul>
+              <ul class="nav nav-tabs">
+                <li class="nav-item">
+                  <h2 class="ms-4">৪</h2>
+                  <h4 class="nav-link p-3 fs-4" aria-current="page"><a href="#" class="text-decoration-none">পর্যালোচনা বৈঠক রাশিয়া থেকে তেল আমদানি সম্ভব নয়</a></h4>
+                </li>
+              </ul>
+            </li>
+          </ul>
